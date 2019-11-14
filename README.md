@@ -1,4 +1,4 @@
-<p align="center"><img src="https://developer.4d.com/4d-for-ios/docs/assets/en/templates/Vertical-Cards-List-form.gif" alt="Vertical Cards" height="auto" width="300"></p>
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-list-VerticalCards/blob/master/template.gif" alt="Vertical Cards" height="auto" width="300"></p>
 
 ## Vertical Cards
 
